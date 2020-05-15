@@ -1,0 +1,57 @@
+Created by nickvourd
+
+######################################
+This is a batch scripting cheat sheet
+######################################
+
+
+1) Useful commands:
+
+	/? --> Help argument for any command.
+	echo --> Displays messages, or turns command-echoing on or off.:
+		*echo. --> changes line
+		*echo ^< --> Display the special character <.
+
+	whoami -->  get user name:
+		*whoami /all -->  Displays the current user name, groups belonged to along with the security identifiers (SID), claims and privileges for the current user access token.
+
+		*whoami /priv --> Displays security privileges of the current user.
+
+	cls --> Clears the screen.
+	type --> Reads ascii of a file.
+	cd --> Shows curremt path or changes directory.
+	date /t --> Shows current date of machine.
+	time /t --> Shows current time of machine.
+	dir /a /p --> Shows all directories/files and hidden directories/files which owner of any file/direcory.
+	del --> Deletes a file.
+	mkdir -> Creates a directory.
+	rd --> Deletes a directory (Empty):
+		*rd /s /q --> Deletes a non empty directory without asking Y/N.
+
+	pause --> Suspends processing of a batch program and displays the message: Press any key to continue . . .
+	vol --> Displays the disk volume label and serial number, if they exist.
+	tree --> Displays files and directories like a tree.
+	move --> Moves files/directories and renames files/directories.
+	ren --> Renames a file or directoies.
+	copy --> Copies one or more files to another location.
+	xcopy --> Copies files and directory trees.
+	start --> Starts a separate window to run a specified program or command.
+	call --> Calls one batch program from another.
+	set --> Displays the list of environment variables on the current system or set value in a variable.
+		*set /a --> The /A switch specifies that the string to the right of the equal sign is a numerical expression that is evaluated
+		*set /p --> The /P switch allows you to set the value of a variable to a line of input entered by the user.
+
+	ver --> Display Windows version.
+	hostname --> Prints the name of the current host.
+	ipconfig --> Displays only the IP address, subnet mask and default gateway for each adapter bound to TCP/IP.
+		*ipconfig /all --> Show detailed information.
+
+
+
+2) CMD Essentials:
+
+	Starts a new instance of the Windows command interpreter.
+		*/c --> Executes the command specified and then exits to cmd.
+		*/k --> Executes the command specified and remains in interactive mode.
+
+		
