@@ -55,3 +55,9 @@ This is a batch scripting cheat sheet
 		*/k --> Executes the command specified and remains in interactive mode.
 
 		
+3) Special Properties:
+	*piping (|) --> dir | find /I ".txt" → Find all .txt files in current directory.
+	*& --> command1 & command2 (executes the first command and then the second).
+	*&& --> command1 && command2 (executes command2 if only command1 executed successful) (logical). 
+	*() --> (command1 & command2) && command3 → group sets commands for conditional execution based on success.
+		(command1 & command2) || command3 → group sets commands for conditional execution based on failure. 
