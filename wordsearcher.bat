@@ -4,6 +4,9 @@ rem Created with <3 by nickvourd
 
 rem all outputs of procedure saved to file output.txt
 
+rem Description: Word Searcher is a batch script which asks as input a keyword
+rem and tries to find any existing directory or file based on this keyword.
+
 goto :main
 
 :searcher_dir
