@@ -3,6 +3,6 @@ Windows mini tools is a repository which contains some useful batch or executabl
 
 This respository contains:
 
-1) wordsearcher.bat: Word Searcher is a batch script which asks as input a keyword and tries to find existing directories or files based on this keyword. (Local).
+1) wordsearcher.bat: Word Searcher is a batch script which asks as input a keyword and tries to find existing directories or files based on this keyword. (Local)
 
-2) batch_handbook.txt: A Simple batch scripting cheat sheet.
+2) batch_handbook.txt: A Simple batch scripting cheat sheet. (TXT)
