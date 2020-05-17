@@ -8,3 +8,6 @@ This respository contains:
 2) batch_handbook.txt: A Simple batch scripting cheat sheet. (TXT)
 
 3) Windows Directories Stracture. (JPG)
+
+4) eternalblue_windows7_auto_gen.sh: This is a automation script which auto generates and converts binaries of eternalblue_windows7.py exploit avoiding to press many commands. (Local - Bash)
+
