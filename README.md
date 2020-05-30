@@ -25,4 +25,4 @@ This respository contains:
 
 11) plink64.exe: This is a plink 64 bit executable for Windows platforms. (WIN/EXE)
 
-12) Watsonv1_3.5.exe: This is a Watson Version 1 .NET 3.5 executable for Windows platforms. (WIN/EXE)
+12) Watsonv1_3.5.exe: This is a Watson Version 1 .NET 3.5 executable for Windows platforms. (WIN/EXE/PRIV ESC)
