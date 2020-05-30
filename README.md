@@ -11,8 +11,12 @@ This respository contains:
 
 4) eternalblue_windows7_auto_gen.sh: This is a automation script which auto generates and converts binaries of eternalblue_windows7.py exploit avoiding to press many commands. (Local - Bash)
 
-5) nc.exe: This a nc executable for Windows platforms. (WIN/EXE)
+5) nc.exe: This is a nc executable for Windows platforms. (WIN/EXE)
 
-6) nc64.exe: This a nc 64 bit executable for Windows platforms. (WIN/EXE)
+6) nc64.exe: This is a nc 64 bit executable for Windows platforms. (WIN/EXE)
 
-7) sbd.exe: This sbd executable for Windows platforms. (WIN/EXE)
+7) sbd.exe: This is a sbd executable for Windows platforms. (WIN/EXE)
+
+8) wget.exe: This is a wget executable for Windows Platforms. (WIN/EXE)
+
+9) whoami.exe: This is a whoami executable for Windows Platforms. (WIN/EXE)
