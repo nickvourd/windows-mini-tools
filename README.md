@@ -17,10 +17,12 @@ This respository contains:
 
 7) sbd.exe: This is a sbd executable for Windows platforms. (WIN/EXE)
 
-8) wget.exe: This is a wget executable for Windows Platforms. (WIN/EXE)
+8) wget.exe: This is a wget executable for Windows platforms. (WIN/EXE)
 
-9) whoami.exe: This is a whoami executable for Windows Platforms. (WIN/EXE)
+9) whoami.exe: This is a whoami executable for Windows platforms. (WIN/EXE)
 
-10) plink32.exe: This is a plink 32 bit executable for Windows Platforms. (WIN/EXE)
+10) plink32.exe: This is a plink 32 bit executable for Windows platforms. (WIN/EXE)
 
-11) plink64.exe: This is a plink 64 bit executable for Windows Platforms. (WIN/EXE)
+11) plink64.exe: This is a plink 64 bit executable for Windows platforms. (WIN/EXE)
+
+12) Watsonv1_3.5.exe: This is a Watson Version 1 .NET 3.5 executable for Windows platforms. (WIN/EXE)
