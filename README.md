@@ -20,3 +20,7 @@ This respository contains:
 8) wget.exe: This is a wget executable for Windows Platforms. (WIN/EXE)
 
 9) whoami.exe: This is a whoami executable for Windows Platforms. (WIN/EXE)
+
+10) plink32.exe: This is a plink 32 bit executable for Windows Platforms. (WIN/EXE)
+
+11) plink64.exe: This is a plink 64 bit executable for Windows Platforms. (WIN/EXE)
